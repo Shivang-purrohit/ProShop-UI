@@ -1,4 +1,4 @@
-export const BASE_URL = 'https://replit.com/@Shivangpurohit/ecomrouter'
+export const BASE_URL = 'https://ecomrouter.shivangpurohit.repl.co'
 
 
 /* https://ecomrouter.shivangpurohit.repl.co */
